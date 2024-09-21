@@ -14,7 +14,7 @@ Felx tira - grid grila
     grid-template-columns:repeat(3,300px) ; /* Genera columnas repetitivas de la dimension que se necesite */
     /* grid-template-columns: 1fr 2fr 1fr ; Fracion la grilla en las fracciones indicadas */
     grid-template-rows:repeat(3,300px) ; /*Genera Filas */
-    /* row-gap: 30px; --> espacio entre filas */
+    /* row-gap: 30px; --> xespacio entre filas */
     /* column-gap: 30px; --> Espacio entre columnas */
     /* grid-column: 1/3; ME indica cuanto de columna puede tomar  */
     /* grid-row: 1/3 ; Cuanto de fila puedo tomar */
